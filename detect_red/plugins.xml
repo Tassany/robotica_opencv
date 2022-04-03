@@ -1,0 +1,7 @@
+<library path="lib/libdetect_red">
+    <class name="Detect_red/detect_red" type="Detect_red::detect_red" base_class_type="nodelet::Nodelet">
+        <description>detect_red nodelet</description>
+    </class>
+
+
+</library>

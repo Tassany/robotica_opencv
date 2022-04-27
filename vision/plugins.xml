@@ -1,0 +1,9 @@
+<library path="lib/libdetect_pose">
+   <class name ="detect/VisionBase"
+       type="detect::VisionBase"
+       base_class_type="nodelet::Nodelet">
+       <description>
+           This is a vision in nodelet
+       </description>
+    </class>
+</library>
